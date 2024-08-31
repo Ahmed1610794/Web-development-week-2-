@@ -1,0 +1,33 @@
+body {
+    font-family: Tahoma;
+    background-color: #e7eaed;
+  margin: 0px;
+}
+
+.imge {
+    width: 500px;
+    height: auto;
+    
+  
+}
+.format {
+  align-items: center;
+  display: flex;
+  font-family: Sans-Serif;
+  font-size: 18px;
+  justify-content: space-between;
+  a {
+    
+    color: #1a73e8; /* اختر اللون الذي تفضله، مثل الأزرق */
+}
+  
+}
+h1 {
+    color: blue;
+    
+}
+
+p {
+    color: blue;
+    line-height: 1.6;
+}
